@@ -19,7 +19,7 @@ curl -v http://localhost:8080/example/v2/foo
 curl -v http://localhost:8080/example/v2/FOO
 ```
 
-#### For v1 default concerter is used, so path variable is case sensitive
+#### For v1 default converter is used, so path variable is case sensitive
 
 ```
 curl -v http://localhost:8080/example/v1/FOO
